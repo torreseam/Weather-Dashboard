@@ -1,5 +1,3 @@
-# Weather-Dashboard
-
 # 06 Server-Side APIs: Weather Dashboard
 
 The URL of the deployed application [WeatherDash Page](https://torreseam.github.io/Weather-Dashboard/) to retrieve weather data for selected cities. 
