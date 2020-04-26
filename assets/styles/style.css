@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgb(86, 98, 104) , rgb(159, 160, 97));
+	}
+
+button{
+    width: 70px;
+    height: auto;
+    background-color: #ff9f43;
+    border: none;
+    border-radius: 5px;
+    transition-duration: .4s;
+    justify-content: center;
+} 
+
+ button:hover {
+    background-color: #feca57;
+}
+
+ button:focus {
+    border: none;
+    outline-color: #4cb324;
+}  
+
+nav {
+    height: 100px;
+    color: rgb(49, 52, 58);
+    margin-top: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #475157;
+}
+
+.alert {
+	display: none;
+}
+
+.search {
+    float: left;
+}
+
+.cityinfo {
+    float: right;
+    justify-content: center;
+    text-align: center;
+}
+
+/* .forecast {
+    float: left;
+} */
+
+.jumbotron {
+    float: right;
+    align-content: center;
+    margin-bottom: 50px;
+}
+.card {
+    background-color: rgb(133, 223, 255);
+    color: rgb(24, 41, 58);
+    width: auto;
+    height: auto;
+}
+
+
