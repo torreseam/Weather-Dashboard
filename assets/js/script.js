@@ -59,6 +59,7 @@ function getweatherData() {
         }
     })
 }
+
 //onclick function
 $("#search").click(function () {
 
