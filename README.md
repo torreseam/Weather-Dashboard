@@ -7,20 +7,18 @@ The URL of the deployed application [WeatherDash Page](https://torreseam.github.
 
 The URL of the [GitHub repository](https://github.com/torreseam/Weather-Dashboard.git)
 
-## User Story
+## Functionality & Technologies Used
 
 ```
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
+Function: Weather outlook page for multiple cities
 
-Technologies utilized:
-HTML
-CSS
-Javascript
-JQuery
-MomentJs API
-OpenWeatherMap API
+Technology:
+1.HTML
+2.CSS
+3.Javascript
+4.JQuery
+5.MomentJs API
+6.OpenWeatherMap API
 ```
 
 ## Acceptance Criteria
