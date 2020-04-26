@@ -10,6 +10,7 @@ for (var i = 0; i < a.length; i++) {
         <button class="cityButton"> ${a[i]} </button>
     `)
 }
+
 //function for API call
 function getweatherData() {
     var key = "919b410aa82e42f827d5478a8a368484";

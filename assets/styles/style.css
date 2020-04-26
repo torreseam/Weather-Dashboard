@@ -5,8 +5,9 @@
 body {
     margin: 0;
     height: 100vh;
-    background-image: linear-gradient(to right, rgb(86, 98, 104) , rgb(159, 160, 97));
-	}
+    /* background-image: linear-gradient(to right, rgb(86, 98, 104) , rgb(159, 160, 97)); */
+    background: linear-gradient(#4ba2d5, #29546e);    
+}
 
 button{
     width: 70px;
@@ -29,12 +30,12 @@ button{
 
 nav {
     height: 100px;
-    color: rgb(49, 52, 58);
+    /* color: rgb(49, 52, 58); */
     margin-top: 0;
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: #475157;
+    background-color: #115f90;
 }
 
 .alert {
