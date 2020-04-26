@@ -2,7 +2,10 @@
 
 # 06 Server-Side APIs: Weather Dashboard
 
-Use the [WeatherDash Page](https://torreseam.github.io/Weather-Dashboard/) to retrieve weather data for selected cities. 
+The URL of the deployed application [WeatherDash Page](https://torreseam.github.io/Weather-Dashboard/) to retrieve weather data for selected cities. 
+
+
+The URL of the [GitHub repository](https://github.com/torreseam/Weather-Dashboard.git)
 
 ## User Story
 
@@ -10,6 +13,14 @@ Use the [WeatherDash Page](https://torreseam.github.io/Weather-Dashboard/) to re
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
+
+Technologies utilized:
+HTML
+CSS
+Javascript
+JQuery
+MomentJs API
+OpenWeatherMap API
 ```
 
 ## Acceptance Criteria
